@@ -1,2 +1,2 @@
 # loc_bittensor
-Subnet template for local use
+This is a subnet template for local use.
